@@ -3,7 +3,7 @@
     <clipPath id="circleView">
       <circle cx="50" cy="50" r="50" />
     </clipPath>
-    <image href="gaurav-logo.jpg" width="100" height="100" clip-path="url(#circleView)" />
+    <image href="./gaurav-logo.jpg" width="100" height="100" clip-path="url(#circleView)" />
   </svg>
   <h1>Gaurav | Gaurva31U</h1>
 </div>
