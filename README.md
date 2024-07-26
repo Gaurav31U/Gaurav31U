@@ -1,12 +1,6 @@
 <div align="center">
-  <style>
-    .circle-image {
-      width: 20%;
-      border-radius: 50%;
-    }
-  </style>
-  <img src="gaurav-logo.jpg" class="circle-image" />
-  <h1> Gaurav | Gaurva31U </h1>
+  <img src="gaurav-logo.jpg" style="width: 20%; border-radius: 50%;" />
+  <h1>Gaurav | Gaurva31U</h1>
 </div>
 
 Hey there, this is Gaurav from India!
