@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="gaurav-logo.jpg" style="width: 20%; border-radius: 50%;" />
+  <svg width="20%" height="20%" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <clipPath id="circleView">
+      <circle cx="50" cy="50" r="50" />
+    </clipPath>
+    <image href="gaurav-logo.jpg" width="100" height="100" clip-path="url(#circleView)" />
+  </svg>
   <h1>Gaurav | Gaurva31U</h1>
 </div>
 
