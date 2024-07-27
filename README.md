@@ -5,8 +5,6 @@
 
 Hey there, this is Gaurav from India!
 
-I am _Backend Developer_
-
 I am _interested in Web Development, Android Development and Cyber Security_.
 
 
@@ -32,8 +30,8 @@ I am _interested in Web Development, Android Development and Cyber Security_.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
 
 #### Framework and Libraries
@@ -57,8 +55,8 @@ I am _interested in Web Development, Android Development and Cyber Security_.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
 
 
-### Technologies
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+#### Middlewares and more
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -67,14 +65,44 @@ I am _interested in Web Development, Android Development and Cyber Security_.
 ### Technologies I want to learn in the future
 
 <details>
-<summary>Programming languages</summary>
+<summary>Languages</summary>
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+
+</details>
+
+<!-- <details>
+<summary>Framework and Libraries</summary>
+
+<!-- ![hyperledger Fabric](https://img.shields.io/badge/hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledgerFabric&logoColor=white)
+![express.js](https://img.shields.io/badge/express.js-404040?style=for-the-badge&logo=express&logoColor=white)
+
+
+</details> -->
+
+<details>
+<summary>Cloud</summary>
+
+![cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+
+
+</details>
+<details>
+<summary>More</summary>
+
+![grpc](https://img.shields.io/badge/grpc-000000?style=for-the-badge&logo=grpc&logoColor=white)
 
 </details>
 
 ## Other platforms
 
 [![Linkedin](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav31u)
-[![Leetcode](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/Xiimoon/)
+[![Leetcode](https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/Xiimoon/)
+
+<!-- [![Gaurav’s github stats](https://github-readme-stats.vercel.app/api?username=Gaurav31U)](https://github.com/Gaurav31U) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav31U&layout=compact)](https://github.com/Gaurav31U) -->
