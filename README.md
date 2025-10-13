@@ -5,7 +5,7 @@
 
 Hey there, this is Gaurav from India!
 
-I am _interested in Web Development, Android Development and Cyber Security_.
+I am _interested in Web Development, Android Development and Core Computer Science Concept_.
 
 
 ## Skills
